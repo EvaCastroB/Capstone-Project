@@ -1,7 +1,7 @@
 # Capstone-Project
 Capstone Project
 
-01 - jupyter-labs-spacex-data-collection-api.ipynb
+<b>01 - jupyter-labs-spacex-data-collection-api.ipynb</b><br>
 02 - jupyter-labs-webscraping.ipynb
 03 - labs-jupyter-spacex-Data wrangling.ipynb
 04 - jupyter-labs-eda-sql-coursera_sqllite.ipynb
